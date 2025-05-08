@@ -1,4 +1,4 @@
-With thanks authors @SHARKKK
+### With thanks authors @SHARKKK
 - Automatically identify CH347 / RS232 burning port
 - Automatically identify CH347 / RS232 burning port driver
 - One-click extraction of DMA card DNA
