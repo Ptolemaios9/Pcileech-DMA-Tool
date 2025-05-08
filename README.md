@@ -1,4 +1,3 @@
-# Features
 With thanks authors @SHARKKK
 - Automatically identify CH347 / RS232 burning port
 - Automatically identify CH347 / RS232 burning port driver
@@ -7,7 +6,7 @@ With thanks authors @SHARKKK
 - Optimize burning process and faster burning speed
 - Multi-language support
 
-# Preview
+### Preview
 ![image](https://github.com/user-attachments/assets/77d10ba4-88fc-41c4-be5b-80f86c094f75)
 ![image](https://github.com/user-attachments/assets/a092a3ea-b799-4001-b926-3cd2144e4f47)
 
